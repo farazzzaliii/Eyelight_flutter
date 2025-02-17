@@ -1,0 +1,290 @@
+[
+    {
+        "Label": "apple",
+        "Price": 0.801660350379784,
+        "Weight": 4.998892505558896,
+        "Quantity": 44,
+        "Type": "Fruit",
+        "Description": "A sweet, edible fruit from an apple tree."
+    },
+    {
+        "Label": "banana",
+        "Price": 1.178805939996028,
+        "Weight": 0.1344338431133442,
+        "Quantity": 9,
+        "Type": "Fruit",
+        "Description": "An elongated fruit from various flowering plants."
+    },
+    {
+        "Label": "beetroot",
+        "Price": 1.929786275023975,
+        "Weight": 0.8671072176068639,
+        "Quantity": 83,
+        "Type": "Vegetable",
+        "Description": "The taproot of a beet plant."
+    },
+    {
+        "Label": "bell pepper",
+        "Price": 1.192739532404874,
+        "Weight": 4.870794161118271,
+        "Quantity": 17,
+        "Type": "Vegetable",
+        "Description": "Mild peppers from the Capsicum annuum species."
+    },
+    {
+        "Label": "cabbage",
+        "Price": 1.1964446084185525,
+        "Weight": 4.1286699585355615,
+        "Quantity": 67,
+        "Type": "Vegetable",
+        "Description": "A leafy vegetable grown as an annual crop."
+    },
+    {
+        "Label": "capsicum",
+        "Price": 1.1964446084185525,
+        "Weight": 4.1286699585355615,
+        "Quantity": 67,
+        "Type": "Vegetable",
+        "Description": "Another term for bell pepper."
+    },
+    {
+        "Label": "carrot",
+        "Price": 2.3096857903749326,
+        "Weight": 1.0579550509160518,
+        "Quantity": 14,
+        "Type": "Vegetable",
+        "Description": "A root vegetable, usually orange in color."
+    },
+    {
+        "Label": "cauliflower",
+        "Price": 5.441479149074452,
+        "Weight": 4.64591527445375,
+        "Quantity": 29,
+        "Type": "Vegetable",
+        "Description": "A cruciferous vegetable, typically white."
+    },
+    {
+        "Label": "chilli pepper",
+        "Price": 2.480930804563046,
+        "Weight": 3.2724161113543526,
+        "Quantity": 67,
+        "Type": "Vegetable",
+        "Description": "Pungent fruit from Capsicum plants."
+    },
+    {
+        "Label": "corn",
+        "Price": 1.6141332607831589,
+        "Weight": 2.1961148720695296,
+        "Quantity": 80,
+        "Type": "Vegetable",
+        "Description": "A large grain plant domesticated in southern Mexico."
+    },
+    {
+        "Label": "cucumber",
+        "Price": 1.392643872887234,
+        "Weight": 1.400919433915695,
+        "Quantity": 68,
+        "Type": "Vegetable",
+        "Description": "A widely cultivated gourd family plant."
+    },
+    {
+        "Label": "eggplant",
+        "Price": 3.931820827682126,
+        "Weight": 4.529847344061329,
+        "Quantity": 25,
+        "Type": "Vegetable",
+        "Description": "A plant with purple edible fruit in the nightshade family."
+    },
+    {
+        "Label": "garlic",
+        "Price": 2.613731614392407,
+        "Weight": 2.650758685810121,
+        "Quantity": 66,
+        "Type": "Vegetable",
+        "Description": "A pungent-flavored species in the onion genus."
+    },
+    {
+        "Label": "ginger",
+        "Price": 2.060251635623348,
+        "Weight": 1.3871102166729974,
+        "Quantity": 1,
+        "Type": "Vegetable",
+        "Description": "A flowering plant with a rhizome used as a spice."
+    },
+    {
+        "Label": "grapes",
+        "Price": 1.120816922672033,
+        "Weight": 0.4923198573296049,
+        "Quantity": 44,
+        "Type": "Fruit",
+        "Description": "Small, edible berries from woody vines of the genus Vitis."
+    },
+    {
+        "Label": "jalepeno",
+        "Price": 2.593446720521543,
+        "Weight": 0.4309682824460688,
+        "Quantity": 88,
+        "Type": "Vegetable",
+        "Description": "A medium-sized chili pepper from the Capsicum annuum species."
+    },
+    {
+        "Label": "kiwi",
+        "Price": 3.603113300696583,
+        "Weight": 3.7329555400208463,
+        "Quantity": 85,
+        "Type": "Fruit",
+        "Description": "An edible berry from woody vines in the genus Actinidia."
+    },
+    {
+        "Label": "lemon",
+        "Price": 2.1753202833300804,
+        "Weight": 2.294156259602771,
+        "Quantity": 98,
+        "Type": "Fruit",
+        "Description": "A yellow citrus fruit known for its sour taste."
+    },
+    {
+        "Label": "lettuce",
+        "Price": 5.199772887214153,
+        "Weight": 2.1999086253971187,
+        "Quantity": 10,
+        "Type": "Vegetable",
+        "Description": "An annual plant often used in salads."
+    },
+    {
+        "Label": "mango",
+        "Price": 8.938278029836304,
+        "Weight": 1.766500238920899,
+        "Quantity": 82,
+        "Type": "Fruit",
+        "Description": "A tropical stone fruit with sweet, juicy flesh."
+    },
+    {
+        "Label": "onion",
+        "Price": 5.927598765727433,
+        "Weight": 4.629049379050698,
+        "Quantity": 10,
+        "Type": "Vegetable",
+        "Description": "A widely cultivated species in the Allium genus."
+    },
+    {
+        "Label": "orange",
+        "Price": 5.768147681135823,
+        "Weight": 3.828313392263477,
+        "Quantity": 13,
+        "Type": "Fruit",
+        "Description": "A citrus fruit with a sweet-tart flavor and high vitamin C content."
+    },
+    {
+        "Label": "paprika",
+        "Price": 3.463786428458958,
+        "Weight": 4.609866259583203,
+        "Quantity": 1,
+        "Type": "Vegetable",
+        "Description": "A spice made from dried red fruits of Capsicum annuum."
+    },
+    {
+        "Label": "pear",
+        "Price": 3.4692620070181075,
+        "Weight": 4.892179785557286,
+        "Quantity": 70,
+        "Type": "Fruit",
+        "Description": "A sweet, bell-shaped fruit from a pear tree."
+    },
+    {
+        "Label": "peas",
+        "Price": 8.957562182484706,
+        "Weight": 4.70252211607743,
+        "Quantity": 1,
+        "Type": "Vegetable",
+        "Description": "Small spherical seeds or pods of Pisum sativum."
+    },
+    {
+        "Label": "pineapple",
+        "Price": 4.392643872887234,
+        "Weight": 1.400919433915695,
+        "Quantity": 68,
+        "Type": "Fruit",
+        "Description": "A tropical fruit with a spiky skin and sweet interior."
+    },
+    {
+        "Label": "pomegranate",
+        "Price": 4.852590585086116,
+        "Weight": 0.2740744546366889,
+        "Quantity": 59,
+        "Type": "Fruit",
+        "Description": "A fruit-bearing shrub with edible seeds."
+    },
+    {
+        "Label": "potato",
+        "Price": 8.55217089552329,
+        "Weight": 0.6453565780587546,
+        "Quantity": 62,
+        "Type": "Vegetable",
+        "Description": "A starchy tuber of the Solanum tuberosum plant."
+    },
+    {
+        "Label": "radish",
+        "Price": 7.672893768153306,
+        "Weight": 0.6916541886768388,
+        "Quantity": 80,
+        "Type": "Vegetable",
+        "Description": "An edible root vegetable of the Brassicaceae family."
+    },
+    {
+        "Label": "soy beans",
+        "Price": 0.9851361522952,
+        "Weight": 1.6374974867523762,
+        "Quantity": 40,
+        "Type": "Vegetable",
+        "Description": "Edible beans from East Asia, widely grown."
+    },
+    {
+        "Label": "spinach",
+        "Price": 5.722527875318836,
+        "Weight": 2.1985036145661943,
+        "Quantity": 25,
+        "Type": "Vegetable",
+        "Description": "A leafy green flowering plant native to central and western Asia."
+    },
+    {
+        "Label": "sweetcorn",
+        "Price": 3.4836031133006965,
+        "Weight": 1.3733833795952948,
+        "Quantity": 96,
+        "Type": "Vegetable",
+        "Description": "A maize variety with high sugar content."
+    },
+    {
+        "Label": "sweet potato",
+        "Price": 3.122267125089722,
+        "Weight": 2.4738327448122263,
+        "Quantity": 79,
+        "Type": "Vegetable",
+        "Description": "A plant with a dicotyledonous tuber."
+    },
+    {
+        "Label": "tomato",
+        "Price": 2.3168566437364535,
+        "Weight": 0.46474023764917154,
+        "Quantity": 4,
+        "Type": "Vegetable",
+        "Description": "An edible berry from the Solanum lycopersicum plant."
+    },
+    {
+        "Label": "turnip",
+        "Price": 5.441479149074452,
+        "Weight": 2.056813038125947,
+        "Quantity": 46,
+        "Type": "Vegetable",
+        "Description": "A root vegetable grown for its white taproot."
+    },
+    {
+        "Label": "watermelon",
+        "Price": 1.6038958258141362,
+        "Weight": 4.421759082156222,
+        "Quantity": 71,
+        "Type": "Fruit",
+        "Description": "A large fruit with a smooth rind and sweet, juicy flesh."
+    }
+]

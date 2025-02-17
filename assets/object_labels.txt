@@ -1,0 +1,7 @@
+bottle
+cup
+laptop
+mobile
+pen
+person
+wallet
