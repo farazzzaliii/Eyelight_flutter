@@ -1,6 +1,6 @@
 # ai
 
-A New Flutter project.
+A New Flutter Project.
 
 ## Getting Started
 
